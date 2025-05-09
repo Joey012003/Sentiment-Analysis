@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+transformers
+torch
+flask  # or fastapi for deployment
+joblib  # if saving models
+streamlit
